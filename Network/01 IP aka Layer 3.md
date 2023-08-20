@@ -18,11 +18,11 @@ A B C D and we normally use Class C in our house /24
 There are some Class A addresses that are reserved and cannot be used.
 127.0.0.0 to 127.255.255.255  
 
-LoopBack Address
+<h2>LoopBack Address</h2>
 IP address "127.0.0.1" is called the Loop Back Address.
 
-Wild-Card Address
-0.0.0.0 is a deafult route or unspecified address and it is used for connection from outside network.
+<h2>Wild-Card Address</h2>
+0.0.0.0 is a default route or unspecified address and it is used for connection from outside network.
 python3 -m http.server
 
 > [! important] : Key-Points:
