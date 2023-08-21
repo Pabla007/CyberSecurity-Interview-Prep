@@ -8,3 +8,22 @@ Hi, I'm Simranjit Singh, a Cybersecurity Analyst who is committed to safeguardin
 Whether it's about monitoring & securing a Business or Navigating a Company from a Cybersecurity incident I have all the tactics in my arsenal to defeat it. 
 My dedication to continuous learning as well as hands-on project experience  enables me to stay at the forefront of cybersecurity trends ensuring the confidentiality, integrity, and availability of critical data.
 
+Tags that i used
+>[!question] : Question tag 
+>
+```
+>[!question] :
+```
+
+
+>[!important] : Important tag
+```
+>[!important] :
+```
+
+
+<h2>h2 tag</h2>
+```
+<h2> </h2>
+```
+

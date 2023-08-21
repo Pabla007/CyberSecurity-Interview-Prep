@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/02 MAC aka Layer 2.md",
+                "file": "Network/OSI model.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/02 MAC aka Layer 2.md",
+                "file": "Network/OSI model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/02 MAC aka Layer 2.md",
+                "file": "Network/OSI model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/02 MAC aka Layer 2.md"
+                "file": "Network/OSI model.md"
               }
             }
           }
@@ -149,13 +149,15 @@
   },
   "active": "6d5be69efa6f09f4",
   "lastOpenFiles": [
-    "Network/Images/Pasted image 20230821123310.png",
-    "Network/01 IP aka Layer 3.md",
-    "Network/02 MAC aka Layer 2.md",
+    "Network/03 TCP vs UPD & 3-way Handshake.md",
+    "README.md",
+    "Network/Images/Pasted image 20230821125948.png",
     "Network/OSI model.md",
+    "Network/02 MAC aka Layer 2.md",
+    "Network/01 IP aka Layer 3.md",
+    "Network/Images/Pasted image 20230821123310.png",
     "Network/Images/Pasted image 20230820132656.png",
     "Network/Images",
-    "README.md",
     "Network Refresher.md",
     "Untitled.canvas",
     "Network"

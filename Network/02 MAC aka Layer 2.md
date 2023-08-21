@@ -16,4 +16,5 @@ https://aruljohn.com/mac.pl
 >IP  | Network Layer   | Logical Address | Assigned by S/W 
 >MAC | Data Link Layer | Pysical Address | Hardcoded into H/W by Manufacture
 
+
 ![[Pasted image 20230821123310.png]]
