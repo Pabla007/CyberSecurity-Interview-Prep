@@ -1,21 +1,49 @@
-# Networking: 
+>[!question] : What is a OSI Model ?_?
+>OSI (Open Systems Interconnection) Model is a conceptual framework that standardized the functions of a communication system into 7 distinct layers and used as a reference for understanding network communication and protocols.
 
-# OSI Model
-The mnemonic **"Please Do Not Throw Sausage Pizza Away"** can help you remember the OSI (Open Systems Interconnection) model layers and their associated terms in the CS field:<br>
-People in CS field will use terms like<br>
-layer 2 instead of switch<br>
-layer 3 instead of router<br>
-<br>
-1 Pysical      | data cables , cat6  <br>
-2 Data         | Switching , Mac addresses <br>
-3 Network      | IP addresses , routing <br>
-4 Transport    | TCP/UDP <br>
-5 Session      | session management <br>
-6 Presentation | WMV , JPEG , MOV <br>
-7 Application  | HTTP , SMTP <br>
 
-<br>
-Pneumonic <br>
-Please Do Not Throw  Sausage Pizza Away  <br>
-or <br>
-Please Do Not Touch Sam's Pet Aligator <br>
+**Mnemonic**
+`"Please Do Not Throw Sausage Pizza Away" ` can help you to remember all the Layers.
+
+
+Overview : 
+1 Physical            | data cables , cat6 
+2 Data               | Switching , Mac addresses 
+3 Network         | IP addresses , routing 
+4 Transport       | TCP/UDP 
+5 Session          | session management 
+6 Presentation  | WMV , JPEG , MOV 
+7 Application    | HTTP , SMTP 
+
+<h2>In Detail: </h2>
+1. Layer 1 - Physical
+   - Deals with physical components: data cables (e.g., Cat6).
+
+2. Layer 2 - Data Link
+   - Switching and MAC addresses.
+   - Responsible for reliable data transfer between two devices on the same network.
+
+3. Layer 3 - Network
+   - IP addresses and routing.
+   - Determines the best path for data packets to reach their destination across different networks.
+
+4. Layer 4 - Transport
+   - TCP/UDP.
+   - Responsible for end-to-end communication and error-checking to ensure data delivery.
+
+5. Layer 5 - Session
+   - Involves session management.
+   - Establishes, maintains, and terminates connections between applications.
+
+6. Layer 6 - Presentation
+   - Data presentation and formatting.
+   - Handles different file formats like WMV, JPEG, and MOV.
+
+7. Layer 7 - Application
+   - Application-layer protocols like HTTP and SMTP.
+   - Interacts directly with end-user applications.
+
+
+>[!important] :People in CS field will use terms like
+layer 2 instead of switch
+layer 3 instead of router
