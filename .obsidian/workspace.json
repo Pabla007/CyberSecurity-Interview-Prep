@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 The Ethical Hacker Methodology.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,24 +143,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d5be69efa6f09f4",
+  "active": "08d9745bce902719",
   "lastOpenFiles": [
-    "Network/06 Subnetting.md",
-    "Network/05 OSI model.md",
-    "Network/04 Common Ports.md",
-    "Network/03 TCP vs UPD & 3-way Handshake.md",
+    "02 Information Gathering (Reconnaissance)/Images",
+    "02 Information Gathering (Reconnaissance)",
+    "01 The Ethical Hacker Methodology.md",
+    "Untitled.md",
+    "01 Network/Images/Pasted image 20230822110513.png",
     "README.md",
-    "Network/01 IP aka Layer 3.md",
-    "Network/Images/Pasted image 20230821174319.png",
-    "Network/Images/Pasted image 20230821174238.png",
-    "Network/02 MAC aka Layer 2.md",
-    "Network/Images/Pasted image 20230821131728.png",
-    "Network/Images/Pasted image 20230821125948.png",
-    "Network/Images/Pasted image 20230821123310.png",
-    "Network/Images/Pasted image 20230820132656.png",
-    "Network/Images",
+    "Pasted image 20230822110513.png  {width=50%}.md",
+    "01 Network/06 Subnetting.md",
+    "01 Network/05 OSI model.md",
+    "01 Network/04 Common Ports.md",
+    "01 Network/03 TCP vs UPD & 3-way Handshake.md",
+    "01 Network/01 IP aka Layer 3.md",
+    "01 Network/Images/Pasted image 20230821174319.png",
+    "01 Network/Images/Pasted image 20230821174238.png",
+    "01 Network/02 MAC aka Layer 2.md",
+    "01 Network/Images/Pasted image 20230821131728.png",
+    "01 Network/Images/Pasted image 20230821125948.png",
+    "01 Network/Images/Pasted image 20230821123310.png",
+    "01 Network/Images/Pasted image 20230820132656.png",
+    "01 Network/Images",
     "Network Refresher.md",
     "Untitled.canvas",
-    "Network"
+    "01 Network"
   ]
 }
