@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Scanning & Enumeration/03 Enumerating SMB.md",
+                "file": "03 Scanning & Enumeration/01 Scanning with Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Scanning & Enumeration/03 Enumerating SMB.md",
+                "file": "03 Scanning & Enumeration/01 Scanning with Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Scanning & Enumeration/03 Enumerating SMB.md",
+                "file": "03 Scanning & Enumeration/01 Scanning with Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Scanning & Enumeration/03 Enumerating SMB.md"
+                "file": "03 Scanning & Enumeration/01 Scanning with Nmap.md"
               }
             }
           }
@@ -150,23 +150,26 @@
   "active": "6d5be69efa6f09f4",
   "lastOpenFiles": [
     "03 Scanning & Enumeration/02 Enumerating HTTP and HTTPS.md",
+    "03 Scanning & Enumeration/03 Enumerating SMB.md",
+    "03 Scanning & Enumeration/04 Enumerating SSH.md",
+    "03 Scanning & Enumeration/05 Researching Potential Vulnerabilities.md",
     "README.md",
     "03 Scanning & Enumeration/01 Scanning with Nmap.md",
-    "03 Scanning & Enumeration/04 Enumerating SSH.md",
-    "03 Scanning & Enumeration/03 Enumerating SMB.md",
+    "01 Network/04 Common Ports.md",
+    "03 Scanning & Enumeration/Images/Pasted image 20230823131231.png",
+    "Pasted image 20230810082539.png.md",
+    "02 Information Gathering (Reconnaissance)/05 Identifying Website Technologies.md",
+    "02 Information Gathering (Reconnaissance)/04 Hunting Subdomains.md",
+    "02 Information Gathering (Reconnaissance)/02 Discovering Email Addresses.md",
+    "02 Information Gathering (Reconnaissance)/07 Google Fu.md",
+    "02 Information Gathering (Reconnaissance)/06 Information Gathering with Burp Suite.md",
+    "02 Information Gathering (Reconnaissance)/03 Gathering Breached Credentials with Breach-Parse.md",
+    "02 Information Gathering (Reconnaissance)/00 OSINT.md",
+    "02 Information Gathering (Reconnaissance)/01 Passive Reconnaissance Overview.md",
     "01 The Ethical Hacker Methodology.md",
-    "03 Scanning & Enumeration/05 Researching Potential Vulnerabilities.md",
     "03 Scanning & Enumeration/04",
     "03 Scanning & Enumeration/Images",
     "03 Scanning & Enumeration",
-    "02 Information Gathering (Reconnaissance)/07 Google Fu.md",
-    "02 Information Gathering (Reconnaissance)/00 OSINT.md",
-    "02 Information Gathering (Reconnaissance)/06 Information Gathering with Burp Suite.md",
-    "02 Information Gathering (Reconnaissance)/05 Identifying Website Technologies.md",
-    "02 Information Gathering (Reconnaissance)/04 Hunting Subdomains.md",
-    "02 Information Gathering (Reconnaissance)/03 Gathering Breached Credentials with Breach-Parse.md",
-    "02 Information Gathering (Reconnaissance)/02 Discovering Email Addresses.md",
-    "02 Information Gathering (Reconnaissance)/01 Passive Reconnaissance Overview.md",
     "02 Information Gathering (Reconnaissance)/Images/Pasted image 20230822114338.png",
     "02 Information Gathering (Reconnaissance)/Images/Pasted image 20230822114320.png",
     "01 Network/01 IP aka Layer 3.md",
@@ -177,7 +180,6 @@
     "Pasted image 20230822110513.png  {width=50%}.md",
     "01 Network/06 Subnetting.md",
     "01 Network/05 OSI model.md",
-    "01 Network/04 Common Ports.md",
     "01 Network/03 TCP vs UPD & 3-way Handshake.md",
     "01 Network/Images/Pasted image 20230821174319.png",
     "01 Network/Images/Pasted image 20230821174238.png",
