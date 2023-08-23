@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03 Scanning & Enumeration/03 Enumerating SMB.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "03 Scanning & Enumeration/03 Enumerating SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "03 Scanning & Enumeration/03 Enumerating SMB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "03 Scanning & Enumeration/03 Enumerating SMB.md"
               }
             }
           }
@@ -149,9 +149,17 @@
   },
   "active": "6d5be69efa6f09f4",
   "lastOpenFiles": [
-    "01 The Ethical Hacker Methodology.md",
-    "02 Information Gathering (Reconnaissance)/07 Google Fu.md",
+    "03 Scanning & Enumeration/02 Enumerating HTTP and HTTPS.md",
     "README.md",
+    "03 Scanning & Enumeration/01 Scanning with Nmap.md",
+    "03 Scanning & Enumeration/04 Enumerating SSH.md",
+    "03 Scanning & Enumeration/03 Enumerating SMB.md",
+    "01 The Ethical Hacker Methodology.md",
+    "03 Scanning & Enumeration/05 Researching Potential Vulnerabilities.md",
+    "03 Scanning & Enumeration/04",
+    "03 Scanning & Enumeration/Images",
+    "03 Scanning & Enumeration",
+    "02 Information Gathering (Reconnaissance)/07 Google Fu.md",
     "02 Information Gathering (Reconnaissance)/00 OSINT.md",
     "02 Information Gathering (Reconnaissance)/06 Information Gathering with Burp Suite.md",
     "02 Information Gathering (Reconnaissance)/05 Identifying Website Technologies.md",
