@@ -24,6 +24,10 @@ Tags that i used
 >[!important] :
 ```
 
+>[!note] : Note tag
+```
+>[!note] :
+```
 
 <h2>h2 tag</h2>
 ```
@@ -33,4 +37,3 @@ Tags that i used
 Copy Command:
 ```
 ```
-
