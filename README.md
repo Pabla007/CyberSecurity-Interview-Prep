@@ -15,18 +15,18 @@ Tags that i used
 >[!question] : Question tag 
 >
 ```
->[!question] :
+>[!question] 
 ```
 
 
 >[!important] : Important tag
 ```
->[!important] :
+>[!important] 
 ```
 
 >[!note] : Note tag
 ```
->[!note] :
+>[!note] 
 ```
 
 <h2>h2 tag</h2>
