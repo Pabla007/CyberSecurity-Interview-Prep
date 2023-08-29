@@ -1,15 +1,9 @@
-As i have started the lab after so long that the IP address of every machine was changed to keep that in mind.
+>[!question] What is GPP or cPassword ?__?
+>- GPP acronym Group Policy Preference allows admins to create policies using embedded credentials
+>- And this encrypted credentials are placed in "cPassword"
 
 
-
-
-
-
-A patch was released but it does not prevent previous issues:
-if an admin has stored a group policy preference embedded credential before the patch was implemented then this will still display a credential to us.
-
-
+![[Pasted image 20230829142904.png]]
 This is not going to come up that often but it is still something that you should be checking for cuz there are lot of server 2012 machines out there.
-
 
 
