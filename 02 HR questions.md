@@ -82,3 +82,27 @@ I believe that the experiences and skills I gained during this period have actua
 "Now, I'm eager to transition back into the workforce, and I'm excited about the opportunity to apply the knowledge and skills I've acquired during my break. I'm confident that my background, coupled with my commitment to continuous learning, will enable me to make a positive contribution to your organization. I'm fully prepared and motivated to embark on the next phase of my career and contribute to the success of the team."
 
 
+Linkedin Request for internship job
+"Hello [HR Professional's Name],
+
+I'm a cybersecurity enthusiast with [mention relevant experience or skills]. I'm keen to contribute my skills and learn from [Company Name]'s industry-leading team. Are there any opportunities available for me to join your cybersecurity or penetration testing division?
+
+Best regards,
+[Your Full Name]"
+
+Hello Shruti M,
+
+I'm a cybersecurity enthusiast who's really keen to contribute my skills and learn from Wipro's industry-leading team. Are there any entry-level opportunities available for me to join your cybersecurity or penetration testing division ?_?
+
+Best regards,
+S Singh
+
+
+Hello Ayon S,
+
+Hey, I'm trying to put my foot in the door (i.e. Cybersecurity enthusiast who's really keen to contribute my skills & learn from industry-leading team).
+
+So are there any entry-level positions like Junior Penetration Tester or Junior CyberSecurity Role in your organization?
+
+Regards
+S

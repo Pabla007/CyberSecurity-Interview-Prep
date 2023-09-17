@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Scanning & Enumeration/01 Scanning with Nmap.md",
+                "file": "02 HR questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Scanning & Enumeration/01 Scanning with Nmap.md",
+                "file": "02 HR questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Scanning & Enumeration/01 Scanning with Nmap.md",
+                "file": "02 HR questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Scanning & Enumeration/01 Scanning with Nmap.md"
+                "file": "02 HR questions.md"
+              }
+            }
+          },
+          {
+            "id": "1a018ee5d948e725",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -149,11 +159,27 @@
   },
   "active": "6d5be69efa6f09f4",
   "lastOpenFiles": [
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/07 CIA.md",
+    "README.md",
+    "02 HR questions.md",
+    "CyberSecurity/00 Images/Pasted image 20230916134004.png",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/06 Security Principles Part 1.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/05 Cybersecurity Careers.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/04 Security Trends.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/03 The Security Mindset.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/02 Business Stakeholders.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/01 Introduction to Cybersecurity.md",
+    "CyberSecurity/00 Images/Pasted image 20230916132814.png",
+    "CyberSecurity/00 Images/Pasted image 20230916132730.png",
+    "CyberSecurity/00 Images/Pasted image 20230916132712.png",
+    "CyberSecurity/00 Images/Pasted image 20230916132556.png",
+    "CyberSecurity/00 Images/Pasted image 20230906144142.png",
+    "CyberSecurity/00 Images/Pasted image 20230906135246.png",
+    "CyberSecurity/00 Images/Pasted image 20230916122525.png",
     "03 Scanning & Enumeration/02 Enumerating HTTP and HTTPS.md",
     "03 Scanning & Enumeration/03 Enumerating SMB.md",
     "03 Scanning & Enumeration/04 Enumerating SSH.md",
     "03 Scanning & Enumeration/05 Researching Potential Vulnerabilities.md",
-    "README.md",
     "03 Scanning & Enumeration/01 Scanning with Nmap.md",
     "01 Network/04 Common Ports.md",
     "03 Scanning & Enumeration/Images/Pasted image 20230823131231.png",
@@ -171,25 +197,9 @@
     "03 Scanning & Enumeration/Images",
     "03 Scanning & Enumeration",
     "02 Information Gathering (Reconnaissance)/Images/Pasted image 20230822114338.png",
-    "02 Information Gathering (Reconnaissance)/Images/Pasted image 20230822114320.png",
-    "01 Network/01 IP aka Layer 3.md",
-    "Untitled.md",
     "02 Information Gathering (Reconnaissance)/Images",
     "02 Information Gathering (Reconnaissance)",
-    "01 Network/Images/Pasted image 20230822110513.png",
-    "Pasted image 20230822110513.png  {width=50%}.md",
-    "01 Network/06 Subnetting.md",
-    "01 Network/05 OSI model.md",
-    "01 Network/03 TCP vs UPD & 3-way Handshake.md",
-    "01 Network/Images/Pasted image 20230821174319.png",
-    "01 Network/Images/Pasted image 20230821174238.png",
-    "01 Network/02 MAC aka Layer 2.md",
-    "01 Network/Images/Pasted image 20230821131728.png",
-    "01 Network/Images/Pasted image 20230821125948.png",
-    "01 Network/Images/Pasted image 20230821123310.png",
-    "01 Network/Images/Pasted image 20230820132656.png",
     "01 Network/Images",
-    "Network Refresher.md",
     "Untitled.canvas",
     "01 Network"
   ]
