@@ -37,3 +37,8 @@ Tags that i used
 Copy Command:
 ```
 ```
+
+Resize Image
+```
+![[image Name | 500]]
+```
