@@ -112,7 +112,31 @@ Hello Venkataraman M,
 
 I'm trying to put my foot in the door 
 
-So are there any entry-level/internship positions like Junior Penetration Tester or Junior CyberSecurity Role in your organization?
+So are there any entry-level/internship positions like Junior Penetration Tester or Junior Cybersecurity Role in your organization?
 
 Regards
 S Singh
+
+https://35.240.217.141/faculty/
+darshna.parmar2809@paruluniversity.ac.in
+https://35.240.217.141/app/202201/images/faculty_members/618508P1252844%20(1).jpg
+
+
+I'm trying to put my foot in the door as a result happened to come across the  Penetration Tester opportunity as advertised on ur site .......
+Is the position still available ?__?
+
+I'm eager to establish my presence in the field, so are there any entry-level/internship positions like Junior Penetration Tester or Junior Cybersecurity Role in your organization?
+
+Could you please confirm if any position's are still open in present or future ?_?
+
+Thank you.
+
+
+I aspire to join [Company Name] because of the compelling alignment between my passion for cybersecurity and the company's commitment to maintaining a secure digital environment. As highlighted in my cover letter, my background as a Computer Instructor and my educational journey in cybersecurity have equipped me with a diverse skill set, which I am eager to apply in the dynamic and challenging environment of [Company Name].
+
+My experiences and dedication to excellence resonate with [Company Name]'s values and objectives. The opportunity to collaborate with a team that shares my enthusiasm for cybersecurity and to contribute my knowledge to protect [Company Name]'s valuable assets is both exciting and personally fulfilling.
+
+Furthermore, I appreciate [Company Name]'s commitment to staying updated with the latest advancements in the field, which aligns perfectly with my own dedication to continuous learning and professional development, as mentioned in my cover letter.
+
+I genuinely look forward to the possibility of joining [Company Name] and working together to ensure the highest levels of cybersecurity for the organization.
+
