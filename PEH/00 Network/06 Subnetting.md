@@ -3,7 +3,7 @@ It is the process of dividing a network into smaller subnetworks called subnets.
 
 
 <h2>How it Works ?_? </h2>
-It invloes in borrowing bits from the HOST portion to a subnet identifier.
+It involves in borrowing bits from the HOST portion to a subnet identifier.
 Term CIDR Block notation is important which is also know as Classless Inter-Domain Routing usually expressed by a forward slash.
 
 

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 HR questions.md",
+                "file": "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/08 Cybersecurity hygiene.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "371ca7b13e2bdc2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data.md",
+                "file": "01 Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16471025d31caf6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PEH/00 Network/04 Common Ports.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 HR questions.md",
+                "file": "01 Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 HR questions.md",
+                "file": "01 Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 HR questions.md"
+                "file": "01 Interview.md"
               }
             }
           },
@@ -169,19 +194,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d5be69efa6f09f4",
+  "active": "73a6b8a28f661415",
   "lastOpenFiles": [
     "Data.md",
-    "README.md",
-    "02 HR questions.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/07 CIA.md",
-    "CyberSecurity/00 Images/Pasted image 20230916134004.png",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/06 Security Principles Part 1.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/05 Cybersecurity Careers.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/04 Security Trends.md",
+    "PEH/00 Network/04 Common Ports.md",
+    "PEH/00 Network/03 TCP vs UPD & 3-way Handshake.md",
+    "PEH/00 Network/02 MAC aka Layer 2.md",
+    "PEH/00 Network/01 IP aka Layer 3.md",
+    "PEH/00 Network/05 OSI model.md",
+    "PEH/00 Network/06 Bridge Vs NAT.md",
+    "PEH/04 Active Directory/02 AD Initial Attack Vectors/02  SMB Relay Attacks Overview.md",
+    "PEH/04 Active Directory/02 AD Initial Attack Vectors/00 Introduction.md",
     "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/03 The Security Mindset.md",
     "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/02 Business Stakeholders.md",
     "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/01 Introduction to Cybersecurity.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/08 Cybersecurity hygiene.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/06 Security Principles Part 1.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/04 Security Trends.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/05 Cybersecurity Careers.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/07 CIA.md",
+    "02 HR questions.md",
+    "01 Interview.md",
+    "PEH/01 The Ethical Hacker Methodology.md",
+    "PEH/01 Information Gathering (Reconnaissance)/01 Passive Reconnaissance Overview.md",
+    "PEH/01 Information Gathering (Reconnaissance)/00 OSINT.md",
+    "PEH/01 Information Gathering (Reconnaissance)/06 Information Gathering with Burp Suite.md",
+    "PEH/01 Information Gathering (Reconnaissance)/05 Identifying Website Technologies.md",
+    "PEH/01 Information Gathering (Reconnaissance)/04 Hunting Subdomains.md",
+    "PEH/01 Information Gathering (Reconnaissance)/03 Gathering Breached Credentials with Breach-Parse.md",
+    "CyberSecurity/00 Images/Pasted image 20231016150501.png",
+    "CyberSecurity/00 Images/Pasted image 20231016150643.png",
+    "Untitled",
+    "CyberSecurity/00 Images/Pasted image 20230916134004.png",
     "CyberSecurity/00 Images/Pasted image 20230916132814.png",
     "CyberSecurity/00 Images/Pasted image 20230916132730.png",
     "CyberSecurity/00 Images/Pasted image 20230916132712.png",
@@ -189,27 +233,9 @@
     "CyberSecurity/00 Images/Pasted image 20230906144142.png",
     "CyberSecurity/00 Images/Pasted image 20230906135246.png",
     "CyberSecurity/00 Images/Pasted image 20230916122525.png",
-    "03 Scanning & Enumeration/02 Enumerating HTTP and HTTPS.md",
-    "03 Scanning & Enumeration/03 Enumerating SMB.md",
-    "03 Scanning & Enumeration/04 Enumerating SSH.md",
-    "03 Scanning & Enumeration/05 Researching Potential Vulnerabilities.md",
-    "03 Scanning & Enumeration/01 Scanning with Nmap.md",
-    "01 Network/04 Common Ports.md",
-    "03 Scanning & Enumeration/Images/Pasted image 20230823131231.png",
-    "Pasted image 20230810082539.png.md",
-    "02 Information Gathering (Reconnaissance)/05 Identifying Website Technologies.md",
-    "02 Information Gathering (Reconnaissance)/04 Hunting Subdomains.md",
-    "02 Information Gathering (Reconnaissance)/02 Discovering Email Addresses.md",
-    "02 Information Gathering (Reconnaissance)/07 Google Fu.md",
-    "02 Information Gathering (Reconnaissance)/06 Information Gathering with Burp Suite.md",
-    "02 Information Gathering (Reconnaissance)/03 Gathering Breached Credentials with Breach-Parse.md",
-    "02 Information Gathering (Reconnaissance)/00 OSINT.md",
-    "02 Information Gathering (Reconnaissance)/01 Passive Reconnaissance Overview.md",
-    "01 The Ethical Hacker Methodology.md",
     "03 Scanning & Enumeration/04",
     "03 Scanning & Enumeration/Images",
     "03 Scanning & Enumeration",
-    "02 Information Gathering (Reconnaissance)/Images/Pasted image 20230822114338.png",
     "02 Information Gathering (Reconnaissance)/Images",
     "02 Information Gathering (Reconnaissance)",
     "01 Network/Images",

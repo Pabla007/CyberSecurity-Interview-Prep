@@ -12,7 +12,7 @@ Overview :
 3 Network         | IP addresses , routing 
 4 Transport       | TCP/UDP 
 5 Session          | session management 
-6 Presentation  | WMV , JPEG , MOV 
+6 Presentation  | WMV , JPEG , MOV  | 3-way handshake
 7 Application    | HTTP , SMTP 
 
 <h2>In Detail: </h2>
