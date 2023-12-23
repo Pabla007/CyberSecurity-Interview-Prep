@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/08 Cybersecurity hygiene.md",
+                "file": "JOB/02 Security Monitoring/08 SIEM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34660bb362327899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PEH/00 Network/04 Common Ports.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Interview.md",
+                "file": "NJ Group.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df9a3e5b0d5e8259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOB/02 Security Monitoring/08 SIEM.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,26 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Interview.md",
+                "file": "02 HR questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "16471025d31caf6b",
+            "id": "af6854fa2c083a84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PEH/00 Network/04 Common Ports.md",
+                "file": "JOB/04 Vulnerability Assessment & Risk Assessment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ids",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Interview.md",
+                "file": "JOB/02 Security Monitoring/08 SIEM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Interview.md",
+                "file": "JOB/02 Security Monitoring/08 SIEM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Interview.md"
+                "file": "JOB/02 Security Monitoring/08 SIEM.md"
               }
             }
           },
@@ -194,52 +218,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73a6b8a28f661415",
+  "active": "df9a3e5b0d5e8259",
   "lastOpenFiles": [
-    "Data.md",
-    "PEH/00 Network/04 Common Ports.md",
+    "JOB/02 Security Monitoring/06.1 System Logs.md",
+    "JOB/02 Security Monitoring/06 Monitoring and Logging Overview.md",
+    "JOB/02 Security Monitoring/05 IDS & IPS.md",
+    "JOB/01.1 Company's OSINT aka Reconnaissance.md",
+    "JOB/02 Security Monitoring/00 Security Monitoring Overview.md",
+    "PEH/01 The Ethical Hacker Methodology.md",
+    "JOB/02 Security Monitoring/02 NIST.md",
+    "PEH/00 Network/05 OSI model.md",
     "PEH/00 Network/03 TCP vs UPD & 3-way Handshake.md",
     "PEH/00 Network/02 MAC aka Layer 2.md",
     "PEH/00 Network/01 IP aka Layer 3.md",
-    "PEH/00 Network/05 OSI model.md",
-    "PEH/00 Network/06 Bridge Vs NAT.md",
-    "PEH/04 Active Directory/02 AD Initial Attack Vectors/02  SMB Relay Attacks Overview.md",
-    "PEH/04 Active Directory/02 AD Initial Attack Vectors/00 Introduction.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/03 The Security Mindset.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/02 Business Stakeholders.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/01 Introduction to Cybersecurity.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/08 Cybersecurity hygiene.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/06 Security Principles Part 1.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/04 Security Trends.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/05 Cybersecurity Careers.md",
-    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/07 CIA.md",
+    "JOB/06 Security Compliance Audits and User Access.md",
+    "JOB/Untitled.md",
+    "JOB/05 Wireless.md",
+    "JOB/05 Security Framework Implementation.md",
+    "JOB/04 Vulnerability Assessment & Risk Assessment.md",
+    "README.md",
+    "Python.md",
+    "NJ Group.md",
+    "New Cover Letter.md",
+    "GMR Group.md",
+    "Data.md",
+    "Civica.md",
     "02 HR questions.md",
-    "01 Interview.md",
-    "PEH/01 The Ethical Hacker Methodology.md",
-    "PEH/01 Information Gathering (Reconnaissance)/01 Passive Reconnaissance Overview.md",
-    "PEH/01 Information Gathering (Reconnaissance)/00 OSINT.md",
-    "PEH/01 Information Gathering (Reconnaissance)/06 Information Gathering with Burp Suite.md",
-    "PEH/01 Information Gathering (Reconnaissance)/05 Identifying Website Technologies.md",
-    "PEH/01 Information Gathering (Reconnaissance)/04 Hunting Subdomains.md",
-    "PEH/01 Information Gathering (Reconnaissance)/03 Gathering Breached Credentials with Breach-Parse.md",
-    "CyberSecurity/00 Images/Pasted image 20231016150501.png",
-    "CyberSecurity/00 Images/Pasted image 20231016150643.png",
-    "Untitled",
-    "CyberSecurity/00 Images/Pasted image 20230916134004.png",
-    "CyberSecurity/00 Images/Pasted image 20230916132814.png",
-    "CyberSecurity/00 Images/Pasted image 20230916132730.png",
-    "CyberSecurity/00 Images/Pasted image 20230916132712.png",
-    "CyberSecurity/00 Images/Pasted image 20230916132556.png",
-    "CyberSecurity/00 Images/Pasted image 20230906144142.png",
-    "CyberSecurity/00 Images/Pasted image 20230906135246.png",
-    "CyberSecurity/00 Images/Pasted image 20230916122525.png",
-    "03 Scanning & Enumeration/04",
-    "03 Scanning & Enumeration/Images",
-    "03 Scanning & Enumeration",
-    "02 Information Gathering (Reconnaissance)/Images",
-    "02 Information Gathering (Reconnaissance)",
-    "01 Network/Images",
-    "Untitled.canvas",
-    "01 Network"
+    "PEH/00 Network/04 Common Ports.md",
+    "PEH/00 Network/06 Subnetting.md",
+    "00 Images/Pasted image 20231110151637.png",
+    "00 Images/Pasted image 20231110141625.png",
+    "00 Images/Pasted image 20231110134433.png",
+    "00 Images",
+    "JOB/00 Images/Pasted image 20231105135931.png",
+    "JOB/00 Images/Pasted image 20231105135910.png",
+    "JOB/00 Images/Pasted image 20231105135200.png",
+    "JOB/00 Images/Pasted image 20231104192521.png",
+    "JOB/00 Images/Pasted image 20231104192253.png",
+    "JOB/00 Images/Pasted image 20231104192053.png",
+    "JOB/00 Images/Pasted image 20231104191856.png",
+    "JOB/08 Project",
+    "JOB/07 Management",
+    "JOB/03 Web Application Fundamentals",
+    "JOB/02 Security Monitoring",
+    "JOB/00 Images",
+    "JOB",
+    "20 JOB/08 Project",
+    "20 JOB/07 Management",
+    "20 JOB/03 Web Application Fundamentals",
+    "Untitled.canvas"
   ]
 }

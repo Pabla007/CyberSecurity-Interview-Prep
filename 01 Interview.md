@@ -17,3 +17,6 @@ himanshudhoundiyal671@gmail.com
 
 ![[Pasted image 20231016150643.png | 500]]
 
+are also known as Unsolicited Bulk E-mails (UBI)
+
+

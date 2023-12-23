@@ -1,3 +1,4 @@
+
 > [! question] : What is IP address ?_?
  IP also know as Internet Protocol is a logical address (i.e. set of rules for communication over the internet.)
 
