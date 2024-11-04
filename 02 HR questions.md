@@ -142,3 +142,14 @@ Furthermore, I appreciate [Company Name]'s commitment to staying updated with th
 
 I genuinely look forward to the possibility of joining [Company Name] and working together to ensure the highest levels of cybersecurity for the organization.
 
+
+```
+Hello ,
+
+I'm trying to put my foot in the door 
+
+So are there any entry-level/internship positions like Junior Web-app Tester or Junior Security Role in your organization?
+
+Regards
+Gaurav Pandey
+```

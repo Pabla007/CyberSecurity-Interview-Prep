@@ -9,3 +9,4 @@ For a "Bridged" virtual network adapter, the host shares its physical adapters, 
 "NAT" on the other hand shares the hosts network connection by assigning the VMs an IP address from a private network, and translates network requests from the guest. This way the host appears as a single system to the network. VMs configured with NAT networking cannot be accessed from other systems on the network by default.
 
 The reason why you cannot access the work network from the VM is likely caused by security policies, which prevent that unknown devices can access the network, or that only a single system can use a single network port.
+

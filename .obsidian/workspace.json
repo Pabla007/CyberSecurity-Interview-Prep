@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOB/02 Security Monitoring/08 SIEM.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOB/04 Vulnerability Assessment & Risk Assessment.md",
+                "file": "PEH/04 Active Directory/01 Active Directory Overview/02 Physical & Logical Active Directory Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1989a477a4c8c9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PEH/00 Network/06 Bridge Vs NAT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6d4b1278d6011be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PEH/03 Exploitation Basics/02  Staged vs Non-Staged Payloads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84acb04385d24fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Civica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ae412dc54ecb719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3727475fb6ba7e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Interview Prep.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -99,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ids",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOB/02 Security Monitoring/08 SIEM.md",
+                "file": "Cybersecurity Interview Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOB/02 Security Monitoring/08 SIEM.md",
+                "file": "Cybersecurity Interview Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JOB/02 Security Monitoring/08 SIEM.md"
+                "file": "Cybersecurity Interview Prep.md"
               }
             }
           },
@@ -197,7 +257,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -218,45 +280,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df9a3e5b0d5e8259",
+  "active": "3727475fb6ba7e7e",
   "lastOpenFiles": [
-    "JOB/02 Security Monitoring/06.1 System Logs.md",
-    "JOB/02 Security Monitoring/06 Monitoring and Logging Overview.md",
-    "JOB/02 Security Monitoring/05 IDS & IPS.md",
-    "JOB/01.1 Company's OSINT aka Reconnaissance.md",
-    "JOB/02 Security Monitoring/00 Security Monitoring Overview.md",
-    "PEH/01 The Ethical Hacker Methodology.md",
-    "JOB/02 Security Monitoring/02 NIST.md",
-    "PEH/00 Network/05 OSI model.md",
-    "PEH/00 Network/03 TCP vs UPD & 3-way Handshake.md",
-    "PEH/00 Network/02 MAC aka Layer 2.md",
-    "PEH/00 Network/01 IP aka Layer 3.md",
-    "JOB/06 Security Compliance Audits and User Access.md",
-    "JOB/Untitled.md",
-    "JOB/05 Wireless.md",
-    "JOB/05 Security Framework Implementation.md",
-    "JOB/04 Vulnerability Assessment & Risk Assessment.md",
-    "README.md",
-    "Python.md",
-    "NJ Group.md",
+    "01 Interview.md",
+    "Cybersecurity Interview Prep.md",
     "New Cover Letter.md",
-    "GMR Group.md",
-    "Data.md",
+    "Suma Offer Letter.md",
+    "00 Images/Pasted image 20241016143841.png",
+    "00 Images/Pasted image 20231205105446.png",
+    "00 Images/Pasted image 20231205105347.png",
+    "00 Images/Pasted image 20241016143742.png",
     "Civica.md",
     "02 HR questions.md",
-    "PEH/00 Network/04 Common Ports.md",
-    "PEH/00 Network/06 Subnetting.md",
+    "README.md",
+    "Wipro.md",
+    "PEH/01 Information Gathering (Reconnaissance)/04 Hunting Subdomains.md",
+    "PEH/01 Information Gathering (Reconnaissance)/03 Gathering Breached Credentials with Breach-Parse.md",
+    "PEH/01 Information Gathering (Reconnaissance)/02 Discovering Email Addresses.md",
+    "PEH/01 Information Gathering (Reconnaissance)/01 Passive Reconnaissance Overview.md",
+    "PEH/01 Information Gathering (Reconnaissance)/00 OSINT.md",
+    "PEH/03 Exploitation Basics/01 Reverse Shells vs Bind Shells.md",
+    "PEH/02 Scanning & Enumeration/01 Scanning with Nmap.md",
+    "PEH/01 Information Gathering (Reconnaissance)/07 Google Fu.md",
+    "PEH/01 Information Gathering (Reconnaissance)/06 Information Gathering with Burp Suite.md",
+    "PEH/01 Information Gathering (Reconnaissance)/05 Identifying Website Technologies.md",
+    "CyberSecurity/01 Cybersecurity Foundation/02 Maintain a Secure Infrastructure/01 Maintain a Secure Infrastructure.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/08 Cybersecurity hygiene.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/06 Security Principles Part 1.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/05 Cybersecurity Careers.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/04 Security Trends.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/03 The Security Mindset.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/02 Business Stakeholders.md",
+    "CyberSecurity/01 Cybersecurity Foundation/01 Cybersecurity Fundamentals/01 Introduction to Cybersecurity.md",
+    "PEH/04 Active Directory/00 Images/Pasted image 20230826120048.png",
     "00 Images/Pasted image 20231110151637.png",
     "00 Images/Pasted image 20231110141625.png",
     "00 Images/Pasted image 20231110134433.png",
     "00 Images",
     "JOB/00 Images/Pasted image 20231105135931.png",
     "JOB/00 Images/Pasted image 20231105135910.png",
-    "JOB/00 Images/Pasted image 20231105135200.png",
-    "JOB/00 Images/Pasted image 20231104192521.png",
-    "JOB/00 Images/Pasted image 20231104192253.png",
-    "JOB/00 Images/Pasted image 20231104192053.png",
-    "JOB/00 Images/Pasted image 20231104191856.png",
     "JOB/08 Project",
     "JOB/07 Management",
     "JOB/03 Web Application Fundamentals",
